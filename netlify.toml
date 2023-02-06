@@ -3,5 +3,5 @@
     to = "/index.html"
     status = 200
 [build]
-    base = "movie-selector- app"
+    base = "movie-selector-app"
     command = "CI= npm run build"
