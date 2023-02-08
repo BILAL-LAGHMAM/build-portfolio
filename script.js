@@ -14,6 +14,5 @@ actions.addEventListener("click", ()=>{
 });
 function hideMenu(){
     hundleMenu("delete");
-    // actions.classList.toggle("is-hide");
 };
 
